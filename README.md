@@ -8,11 +8,11 @@ and measurement management endpoints (`/barrels`, `/measurement`).
 
 ## 📦 Features
 
-- ✅ Create / Read / Delete barrel scenarios
-- ❌ Validation error tests for missing or invalid input
-- 🔁 Concurrent request testing
-- 🔥 Input sanitation and security edge cases
-- 🔧 Eslint to assure code structure
+- Create / Read / Delete barrel scenarios
+- Validation error tests for missing or invalid input
+- Concurrent request testing
+- Input sanitation and security edge cases
+- Eslint to assure code structure
 
 ---
 
