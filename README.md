@@ -59,7 +59,7 @@ This test suite includes:
 1. **Clone the repo:**
 
    ```bash
-   git clone https://github.com/your-org/barrel-api-tests.git
+   git clone https://github.com/Sanghaim/trafin-oil-playwright.git
    cd barrel-api-tests
 
 2. **Install dependencies:**
