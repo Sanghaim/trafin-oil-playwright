@@ -75,7 +75,7 @@ This test suite includes:
 4. **Run specific test file:**
 
     ```bash
-    npx playwright test tests/barrels.positive.spec.ts
+    npx playwright test tests/barrels.spec.ts
    
 Running tests will open HTML report. To open interactive mode use:
    ```bash
